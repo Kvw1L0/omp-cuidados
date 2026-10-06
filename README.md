@@ -1,6 +1,8 @@
 # OMP · Prototipo interactivo
 
-Abre `index.html` en un navegador moderno. No requiere instalación. La vista previa local está disponible mientras el servidor del prototipo sigue activo. La publicación privada no se completó por una restricción de aprobación de la sesión.
+Prototipo publicado en GitHub Pages: https://kvw1l0.github.io/omp-cuidados/
+
+También puedes abrir `index.html` en un navegador moderno. No requiere instalación ni compilación. GitHub Pages publica automáticamente los cambios de la rama `main`, desde la raíz del repositorio.
 
 Actualización del 6 de octubre: la ficha comienza con foto, nombre y datos esenciales de la mascota. El resumen prioriza el siguiente cuidado y la última indicación. Una barra persistente mantiene la identidad mientras se recorren Resumen, Cuidados, Historial y Documentos. Información administrativa se abre desde la cabecera; las mediciones están dentro de Cuidados. El historial presenta primero qué ocurrió y qué sigue.
 
